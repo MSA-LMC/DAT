@@ -4,7 +4,7 @@
 
 This project aims to estimate human engagement in conversations through audio and visual input. Engagement estimation is a key indicator for understanding human social behavior, widely applied in emotion computing and human-computer interaction fields.
 ![Human Engagement Estimation](https://github.com/MSA-LMC/DAT/blob/main/data_vis.jpg)
-This photo shows the NOXI dataset (upper part) and the MPIIGroupInteraction dataset (lower part)[1].
+This photo displays an overview of the NOXI dataset (upper part) and the MPIIGroupInteraction dataset (lower part). For specifics, please refer to [1].
 
 
 ## 方法
