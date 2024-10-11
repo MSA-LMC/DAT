@@ -16,6 +16,8 @@ We propose a Dialogue-Aware Transformer (DAT) framework to enhance the accuracy 
 
 <img src="https://github.com/MSA-LMC/DAT/blob/main/model_structure.png" alt="Model Structure" width="1500"/>
 
+**Overall architecture of the proposed method**.  Our DAT consists of two main modules: Modality-Group Fusion and DialogueAware Encoder. Firstly, the Modality-Group Fusion module processes audio and visual features for both the participant and partner. Each feature is processed through a Transformer before being fused together. Subsequently, the Dialogue-Aware Encoder utilizes cross-attention to combine and encode information from both participants, focusing on contextual interactions to enhance engagement prediction. Finally, an MLP predicts continuous engagement levels frame-by-frame by utilizing the encoded features.
+
 ## Result
 
 We rigorously tested this method at the MultiMediate 2024 multi-domain engagement estimation challenge, achieving:
