@@ -1,12 +1,14 @@
-# DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation， MM 2024
+# DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation，MM 2024
 
 ## 任务描述
 
-该项目旨在通过音频和视觉输入估计人类在对话中的互动参与程度。参与度估计是理解人类社交行为的关键指标，广泛应用于情感计算和人机交互等领域。我们提出了一种Dialogue-aware Transformer (DAT) 框架，结合了模态组融合 (Modality-Group Fusion, MGF) 策略，以提高对话中参与者的参与度估计准确性。
+该项目旨在通过音频和视觉输入估计人类在对话中的互动参与程度。参与度估计是理解人类社交行为的关键指标，广泛应用于情感计算和人机交互等领域。如下图所示：
+![Uploading 01acf0c90274b50f5f8b9d5e9b5ecc0.jpg…]()
+
 
 ## 方法
 
-我们的方法主要包括以下几个关键组件：
+我们提出了一种Dialogue-aware Transformer (DAT) 框架，结合了模态组融合 (Modality-Group Fusion, MGF) 策略，以提高对话中参与者的参与度估计准确性。我们的方法主要包括以下几个关键组件：
 
 1. **模态组融合 (MGF)**：
    - 该模块独立融合每个参与者的音频和视觉特征，生成深层、语言独立的特征表示。
