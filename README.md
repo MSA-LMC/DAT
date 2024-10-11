@@ -1,10 +1,10 @@
-      # DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation，MM 2024
+# DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation，MM 2024
 
 ## Task Description
 
 This project aims to estimate human engagement in conversations through audio and visual input. Engagement estimation is a key indicator for understanding human social behavior, widely applied in emotion computing and human-computer interaction fields.
 
-<img src="https://github.com/your_username/your_repo_name/images/data_vis.jpg" alt="Human Engagement Estimation" width="600"/>
+<img src="https://github.com/MSA-LMC/DAT/edit/main/data_vis.jpg" alt="Human Engagement Estimation" width="600"/>
 
 This photo displays an overview of the NOXI dataset (upper part) and the MPIIGroupInteraction dataset (lower part). For specifics, please refer to [1].
 
@@ -13,7 +13,7 @@ This photo displays an overview of the NOXI dataset (upper part) and the MPIIGro
 
 We propose a Dialogue-Aware Transformer (DAT) framework that incorporates a Modality-Group Fusion (MGF) strategy to enhance the accuracy of engagement estimation in conversations.
 
-<img src="https://github.com/your_username/your_repo_name/images/model_structure.png" alt="Model Structure" width="600"/>
+<img src="https://github.com/MSA-LMC/DAT/edit/main/model_structure.png" alt="Model Structure" width="600"/>
 
 ## 实验效果
 
