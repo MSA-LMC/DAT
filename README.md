@@ -1,9 +1,10 @@
 # DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation，MM 2024
 
-## 任务描述
+## Task Description
 
-该项目旨在通过音频和视觉输入估计人类在对话中的互动参与程度。参与度估计是理解人类社交行为的关键指标，广泛应用于情感计算和人机交互等领域。如下图所示：
+This project aims to estimate human engagement in conversations through audio and visual input. Engagement estimation is a key indicator for understanding human social behavior, widely applied in emotion computing and human-computer interaction fields.
 ![Human Engagement Estimation](https://github.com/MSA-LMC/DAT/blob/main/data_vis.jpg)
+This photo shows the NOXI dataset (upper part) and the MPIIGroupInteraction dataset (lower part)[1].
 
 
 ## 方法
