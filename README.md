@@ -33,24 +33,10 @@
 
 本研究显著相较于基线模型提升了参与度估计的精度和鲁棒性，证明了对话伙伴信息和模态组融合策略在模型中的重要性。
 
-## 如何使用
-
-1. **环境准备**：您需要安装以下依赖（例如 TensorFlow/PyTorch 等）。
-2. **数据集准备**：下载并准备数据集，具体信息可以参考 [MultiMediate 2024](https://doi.org/10.1145/3664647.3689004)。
-3. **运行代码**：
-   - 用以下命令运行模型：
-     ```bash
-     python main.py --dataset your_dataset_path
-     ```
-
 ## 参考文献
 
 如需了解更多细节，可以参考以下文献：
 - Li, J., Yu, Y., Chen, Y., Zhang, Y., Jia, P., Xu, Y., Li, Z., Wang, M., Hong, R. (2024). DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation. [arXiv preprint](https://arxiv.org/abs/xxxx.xxxxx).
-
-## 许可证
-
-本项目遵循 [MIT许可证](LICENSE)。
 
 
 
