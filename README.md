@@ -6,8 +6,6 @@ This project aims to estimate human engagement in conversations through audio an
 
 <img src="https://github.com/MSA-LMC/DAT/blob/main/data_vis.jpg" alt="Human Engagement Estimation" width="400"/>
 
-</div>
-
 
 This photo displays an overview of the NOXI dataset (upper part) and the MPIIGroupInteraction dataset (lower part). For specifics, please refer to [1].
 
@@ -16,17 +14,25 @@ This photo displays an overview of the NOXI dataset (upper part) and the MPIIGro
 
 We propose a Dialogue-Aware Transformer (DAT) framework that incorporates a Modality-Group Fusion (MGF) strategy to enhance the accuracy of engagement estimation in conversations.
 
-<div style="text-align: center;">
-  <img src="https://github.com/MSA-LMC/DAT/blob/main/model_structure.png" alt="Model Structure" width="1500"/>
-</div>
+<img src="https://github.com/MSA-LMC/DAT/blob/main/model_structure.png" alt="Model Structure" width="1500"/>
 
-## 实验效果
+## Result
 
-我们在 MultiMediate 2024 组织的多域参与度估计挑战赛中严格测试了该方法，结果显示：
+We rigorously tested this method at the MultiMediate 2024 multi-domain engagement estimation challenge, achieving:
+| Team              | NoXi Base | NoXi Add | MPIIGI | Global |
+|-------------------|-----------|----------|--------|--------|
+| USTC-IAT-Unite    | 0.72      | 0.73     | 0.59   | 0.68   |
+| AI-lab            | 0.69      | 0.72     | 0.54   | 0.65   |
+| **HFUT-LMC (Ours)**| **0.76** | **0.67** | **0.49** | **0.64** |
+| Syntax            | 0.72      | 0.69     | 0.5    | 0.64   |
+| ashk              | 0.72      | 0.69     | 0.42   | 0.61   |
+| YKK               | 0.68      | 0.66     | 0.36   | 0.54   |
+| Xpace             | 0.7       | 0.7      | 0.34   | 0.58   |
+| nox               | 0.68      | 0.66     | 0.35   | 0.57   |
+| SP-team           | 0.68      | 0.65     | 0.34   | 0.56   |
+| YI.YJ             | 0.6       | 0.52     | 0.3    | 0.47   |
+| MM24 Baseline [20]| 0.64      | 0.51     | 0.09   | 0.41   |
 
-- 在 NoXi Base 测试集上，模型达到了 0.76 的 CCC（Concordance Correlation Coefficient）得分。
-- 在 NoXi-Add 和 MPIIGI 测试集上的平均 CCC 分别为 0.67 和 0.49。
-- 综合各测试集的平均CCC得分提升了 0.23，相较于基线模型显著提高了模型的表现。
 
 ### 结果总结
 
