@@ -3,15 +3,17 @@
 ## Task Description
 
 This project aims to estimate human engagement in conversations through audio and visual input. Engagement estimation is a key indicator for understanding human social behavior, widely applied in emotion computing and human-computer interaction fields.
-![Human Engagement Estimation](https://github.com/MSA-LMC/DAT/blob/main/data_vis.jpg)
+
+<img src="https://github.com/your_username/your_repo_name/images/data_vis.jpg" alt="Human Engagement Estimation" width="600"/>
+
 This photo displays an overview of the NOXI dataset (upper part) and the MPIIGroupInteraction dataset (lower part). For specifics, please refer to [1].
 
 
 ## Method       
 
 We propose a Dialogue-Aware Transformer (DAT) framework that incorporates a Modality-Group Fusion (MGF) strategy to enhance the accuracy of engagement estimation in conversations.
-![Model Structure](https://github.com/MSA-LMC/DAT/blob/main/model_structure.png)
 
+<img src="https://github.com/your_username/your_repo_name/images/model_structure.png" alt="Model Structure" width="600"/>
 
 ## 实验效果
 
