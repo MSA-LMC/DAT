@@ -34,10 +34,9 @@ This photo displays an overview of the NOXI dataset (upper part) and the MPIIGro
 
 本研究显著相较于基线模型提升了参与度估计的精度和鲁棒性，证明了对话伙伴信息和模态组融合策略在模型中的重要性。
 
-## 参考文献
+## REFERENCE
+[1] Philipp Müller, Michal Balazia, Tobias Baur, Michael Dietz, Alexander Heimerl, Dominik Schiller, Mohammed Guermal, Dominike Thomas, François Brémond, Jan Alexandersson, Elisabeth André, and Andreas Bulling. 2023. MultiMediate '23: Engagement Estimation and Bodily Behaviour Recognition in Social Interactions. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23). Association for Computing Machinery, New York, NY, USA, 9640–9645. https://doi.org/10.1145/3581783.3613851
 
-如需了解更多细节，可以参考以下文献：
-- Li, J., Yu, Y., Chen, Y., Zhang, Y., Jia, P., Xu, Y., Li, Z., Wang, M., Hong, R. (2024). DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation. [arXiv preprint](https://arxiv.org/abs/xxxx.xxxxx).
 
 
 
