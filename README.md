@@ -33,11 +33,6 @@ We rigorously tested this method at the MultiMediate 2024 multi-domain engagemen
 | YI.YJ             | 0.6       | 0.52     | 0.3    | 0.47   |
 | MM24 Baseline [20]| 0.64      | 0.51     | 0.09   | 0.41   |
 
-
-### 结果总结
-
-本研究显著相较于基线模型提升了参与度估计的精度和鲁棒性，证明了对话伙伴信息和模态组融合策略在模型中的重要性。
-
 ## Reference
 
 [1] Philipp Müller, Michal Balazia, Tobias Baur, Michael Dietz, Alexander Heimerl, Dominik Schiller, Mohammed Guermal, Dominike Thomas, François Brémond, Jan Alexandersson, Elisabeth André, and Andreas Bulling. 2023. MultiMediate '23: Engagement Estimation and Bodily Behaviour Recognition in Social Interactions. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23). Association for Computing Machinery, New York, NY, USA, 9640–9645. https://doi.org/10.1145/3581783.3613851
