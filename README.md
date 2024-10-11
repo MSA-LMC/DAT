@@ -31,7 +31,7 @@ We rigorously tested this method at the MultiMediate 2024 multi-domain engagemen
 | nox               | 0.68      | 0.66     | 0.35   | 0.57   |
 | SP-team           | 0.68      | 0.65     | 0.34   | 0.56   |
 | YI.YJ             | 0.6       | 0.52     | 0.3    | 0.47   |
-| MM24 Baseline [20]| 0.64      | 0.51     | 0.09   | 0.41   |
+| MM24 Baseline     | 0.64      | 0.51     | 0.09   | 0.41   |
 
 ## Reference
 
