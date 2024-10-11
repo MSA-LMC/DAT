@@ -3,7 +3,7 @@
 ## 任务描述
 
 该项目旨在通过音频和视觉输入估计人类在对话中的互动参与程度。参与度估计是理解人类社交行为的关键指标，广泛应用于情感计算和人机交互等领域。如下图所示：
-![Human Engagement Estimation](https://github.com/your_username/your_repo_name/images/your_image.jpg)
+![Human Engagement Estimation](https://github.com/MSA-LMC/DAT/blob/main/data_vis.jpg)
 
 
 ## 方法
