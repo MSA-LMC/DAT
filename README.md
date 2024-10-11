@@ -10,7 +10,7 @@ This photo displays an overview of the NOXI dataset (upper part) and the MPIIGro
 ## Method       
 
 We propose a Dialogue-Aware Transformer (DAT) framework that incorporates a Modality-Group Fusion (MGF) strategy to enhance the accuracy of engagement estimation in conversations.
-![Model Structure](https://github.com/MSA-LMC/DAT/blob/main/model_structure.jpg)
+![Model Structure](https://github.com/MSA-LMC/DAT/blob/main/model_structure.png)
 
 
 ## 实验效果
