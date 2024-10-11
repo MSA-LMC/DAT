@@ -1,4 +1,4 @@
-# DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation，MM 2024
+      # DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation，MM 2024
 
 ## Task Description
 
@@ -7,20 +7,10 @@ This project aims to estimate human engagement in conversations through audio an
 This photo displays an overview of the NOXI dataset (upper part) and the MPIIGroupInteraction dataset (lower part). For specifics, please refer to [1].
 
 
-## 方法
+## Method       
 
-我们提出了一种Dialogue-aware Transformer (DAT) 框架，结合了模态组融合 (Modality-Group Fusion, MGF) 策略，以提高对话中参与者的参与度估计准确性。我们的方法主要包括以下几个关键组件：
+We propose a Dialogue-Aware Transformer (DAT) framework that incorporates a Modality-Group Fusion (MGF) strategy to enhance the accuracy of engagement estimation in conversations.
 
-1. **Modality-Group Fusion (MGF)**：
-   - 该模块独立融合每个参与者的音频和视觉特征，生成深层、语言独立的特征表示。
-   - 通过减少冗余信息，优化模态间的特征整合，提升模型性能和鲁棒性。
-
-2. **Dialogue-Aware Transformer Encoder (DAE)**：
-   - 利用交叉注意力机制，结合来自目标参与者和对话伙伴的音视频特征，提高参与度估计的准确性。
-   - DAE 模块通过整合额外的上下文信息，有效提升了模型对目标参与者行为的捕获能力。
-
-3. **框架架构**：
-   - DAT 框架由多个 Transformer 层组成，包括 MG 和 DAE 模块，通过对参与者的音频-视觉内容进行建模，进行行为分析。
 
 ## 实验效果
 
