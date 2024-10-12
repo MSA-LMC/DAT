@@ -20,7 +20,7 @@ We propose a Dialogue-Aware Transformer (DAT) framework to enhance the accuracy 
 
 ## Result
 
-We rigorously tested this method at the MultiMediate 2024 multi-domain engagement estimation challenge, achieving:
+We rigorously tested this method at the MultiMediate 2024 multi-domain engagement estimation challenge, achieving the best performance on the NoXi Base dataset and the 3rd place across three different datasets (multi-domain):
 | Team              | NoXi Base | NoXi Add | MPIIGI | Global |
 |-------------------|-----------|----------|--------|--------|
 | USTC-IAT-Unite    | 0.72      | 0.73     | 0.59   | 0.68   |
