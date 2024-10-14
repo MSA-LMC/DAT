@@ -35,10 +35,23 @@ We rigorously tested this method at the MultiMediate 2024 multi-domain engagemen
 | YI.YJ             | 0.6       | 0.52     | 0.3    | 0.47   |
 | MM24 Baseline     | 0.64      | 0.51     | 0.09   | 0.41   |
 
-## Reference
+## Dataset and Reference
 
-[1] Philipp Müller, Michal Balazia, Tobias Baur, Michael Dietz, Alexander Heimerl, Dominik Schiller, Mohammed Guermal, Dominike Thomas, François Brémond, Jan Alexandersson, Elisabeth André, and Andreas Bulling. 2023. MultiMediate '23: Engagement Estimation and Bodily Behaviour Recognition in Social Interactions. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23). Association for Computing Machinery, New York, NY, USA, 9640–9645. https://doi.org/10.1145/3581783.3613851
+[1] Philipp Müller, Michal Balazia, Tobias Baur, Michael Dietz, Alexander Heimerl, Dominik Schiller, Mohammed Guermal, Dominike Thomas, François Brémond, Jan Alexandersson, Elisabeth André, and Andreas Bulling. 2023. MultiMediate '23: Engagement Estimation and Bodily Behaviour Recognition in Social Interactions. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23).
 
 
+## Citation
+If you find this repo helpful, please consider citing:
 
+```
+@misc{li2024datdialogue,
+      title={DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation}, 
+      author={Jia Li and Yangchen Yu and Yin Chen and Yu Zhang and Peng Jia and Yunbo Xu and Ziqiang Li and Meng Wang and Richang Hong},
+      year={2024},
+      eprint={2410.08470},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2410.08470}, 
+}
+```
 
