@@ -44,14 +44,12 @@ We rigorously tested this method at the MultiMediate 2024 multi-domain engagemen
 If you find this repo helpful, please consider citing:
 
 ```
-@inproceedings{10.1145/3664647.3688988,
-title = {DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation},
-year = {2024},
-booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
-pages = {11397–11403},
-numpages = {7},
-location = {Melbourne VIC, Australia},
-series = {MM '24}
+@inproceedings{li2024dat,
+  title={DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation},
+  author = {Li, Jia and Yu, Yangchen and Chen, Yin and Zhang, Yu and Jia, Peng and Xu, Yunbo and Li, Ziqiang and Wang, Meng and Hong, Richang},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages = {11397–11403},
+  year={2024}
 }
 ```
 
