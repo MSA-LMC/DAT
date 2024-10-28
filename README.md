@@ -1,4 +1,4 @@
-# [MM 2024] DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation
+  # [MM 2024] DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation
 
 ## Task Description
 
@@ -47,8 +47,6 @@ If you find this repo helpful, please consider citing:
 @inproceedings{10.1145/3664647.3688988,
 title = {DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation},
 year = {2024},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
 booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
 pages = {11397–11403},
 numpages = {7},
