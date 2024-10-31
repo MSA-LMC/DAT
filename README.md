@@ -46,9 +46,9 @@ If you find this repo helpful, please consider citing:
 ```
 @inproceedings{li2024dat,
   title={DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation},
-  author = {Li, Jia and Yu, Yangchen and Chen, Yin and Zhang, Yu and Jia, Peng and Xu, Yunbo and Li, Ziqiang and Wang, Meng and Hong, Richang},
-  booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
-  pages = {11397–11403},
+  author={Li, Jia and Yu, Yangchen and Chen, Yin and Zhang, Yu and Jia, Peng and Xu, Yunbo and Li, Ziqiang and Wang, Meng and Hong, Richang},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={11397--11403},
   year={2024}
 }
 ```
